@@ -1,0 +1,4 @@
+Hi, I am TB the developer of the game.
+To play this game, you need python3, and installed all files listed in the requirements.txt, you can use the command pip install -r requirements to do that. 
+Also, this game is only available for windows user.
+Have a good time!

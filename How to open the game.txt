@@ -1,8 +1,0 @@
-Hi, I am T.B, a new-hand developer.
-The game needs pgzero.
-Please install python,and use cmd to install it.
-(just print"pip install pgzero" in cmd)
-After that you can open main.py in any python IDE(like Thonny), then enjoy it.
-This game are still in process.
-Feel free to share my code, and if you have any advise about the game or want to work with me please contact me in github.
-Thanks!
