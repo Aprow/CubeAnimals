@@ -1,0 +1,3 @@
+main: main func in the game
+data: game data and generation function
+store: functions of store
