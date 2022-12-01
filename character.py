@@ -60,9 +60,9 @@ def arrangeally(order):
         group = []
         group += ally.sprites()
         for item in group:
-        if draged.has(item) is True:
-            item.order = order
-            group.remove(item)
+            if draged.has(item) is True:
+                item.order = order
+                group.remove(item)
             
         if len(group)<5:
             for item in group:
